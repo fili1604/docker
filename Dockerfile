@@ -1,4 +1,4 @@
-# soft a descargar
+# soft a descargar------
 FROM php:7-apache
 
 #Comando RUN ejecuta estos comandos y los hace permanentes en los contenedores? 
